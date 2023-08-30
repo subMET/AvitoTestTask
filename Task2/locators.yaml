@@ -1,0 +1,5 @@
+xpath:
+  LOCATOR_ADD_TO_FAVORITE: //*[@id="app"]/div/div[3]/div[1]/div/div[2]/div[3]/div[1]/div[1]/div/div[3]/div/div/div/div[1]/button/span
+  LOCATOR_AD_HEADER: //*[@id="app"]/div/div[3]/div[1]/div/div[2]/div[3]/div[1]/div[1]/div/div[1]/h1/span
+  LOCATOR_TO_FAVORITES_PAGE: //*[@id="app"]/div/div[1]/div/div/div[1]/a[1]/div/svg/path
+  LOCATOR_FIRST_AD_TITLE: //*[@id="app"]/div/div[4]/div/div/favorite-items-list/div/div/div[1]/div[2]/div/div/div/div[2]/a/p/strong
